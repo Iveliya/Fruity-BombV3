@@ -43,7 +43,7 @@ namespace FruityBombData
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-AEUQ5AJ\\SQLEXPRESS;Initial Catalog=JuiceBomb;Integrated Security=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Data Source=DESKTOP-OMT97JR\\SQLEXPRESS;Initial Catalog=JuiceBomb;Integrated Security=True;TrustServerCertificate=True");
         }
     }
 }

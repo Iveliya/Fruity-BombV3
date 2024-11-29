@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FruityBombData.Migrations
 {
     [DbContext(typeof(FruityBombDbContext))]
-    [Migration("20241107111742_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20241114074657_InitialMig")]
+    partial class InitialMig
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

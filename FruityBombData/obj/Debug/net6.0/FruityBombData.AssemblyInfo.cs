@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FruityBombData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca6a7177eb77fb559475baf46c08d90449a5026")]
 [assembly: System.Reflection.AssemblyProductAttribute("FruityBombData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FruityBombData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
